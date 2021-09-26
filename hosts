@@ -1,0 +1,3 @@
+[aaa]
+10.2.0.[1:5]
+"root" ansible_ssh_pass="1234" ansible_ssh_port=22
